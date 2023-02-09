@@ -24,10 +24,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./image1.png" alt="Logo" width="180" height="180">
+    <img src="./image2.jpg" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">Daily LIFE MANAGEMENT SYSTEM</h3>
+  <h1 align="center">Daily LIFE MANAGEMENT SYSTEM</h1>
 
   <p align="center">
     <br />
@@ -55,15 +56,10 @@
 
 ## About The Project
 
-[![LIFE MANAGEMENT PLATFORM][product-screenshot]](https://life-management-v1.netlify.app/)
-
-This is the projects that manage the all the life of our team like Fund, Schedule, Health, Meeting, Party, Birthday ... <br/>
-    1. Fund management <br/>
-    2. Schedule management <br/>
-    3. Health management <br/>
-    4. Meeting and Party management <br/>
+This is the projects that manage the all the life of our team like Fund, Schedule, Health, Meeting, Party, Birthday ... <br/> 1. Fund management <br/> 2. Schedule management <br/> 3. Health management <br/> 4. Meeting and Party management <br/>
 
 If you have any suggestion, please put it on issues.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -79,64 +75,60 @@ If you have any suggestion, please put it on issues.
 
 If you are unfamiliar with ASP.NET Core or Razor, follow the links below to learn more:
 
-* ASP.NET Core apps: Follow the [Getting Started](https://docs.microsoft.com/aspnet/core/getting-started) instructions in the [ASP.NET Core docs](https://docs.microsoft.com/aspnet/index).
-* Razor pages: Visit the [tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio) on getting started with Razor pages.
+- ASP.NET Core apps: Follow the [Getting Started](https://docs.microsoft.com/aspnet/core/getting-started) instructions in the [ASP.NET Core docs](https://docs.microsoft.com/aspnet/index).
+- Razor pages: Visit the [tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio) on getting started with Razor pages.
 
 Also check out the [.NET Homepage](https://www.microsoft.com/net) for released versions of .NET, getting started guides, and learning resources.
 
 ## Reporting security issues and bugs
 
-Security issues and bugs should be reported privately, via email, to the Microsoft Security Response Center (MSRC)  secure@microsoft.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Further information, including the MSRC PGP key, can be found in the [Security TechCenter](https://technet.microsoft.com/en-us/security/ff852094.aspx).
-
+Security issues and bugs should be reported privately, via email, to the Microsoft Security Response Center (MSRC) secure@microsoft.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Further information, including the MSRC PGP key, can be found in the [Security TechCenter](https://technet.microsoft.com/en-us/security/ff852094.aspx).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
 
-  <summary>Fund management</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+    <summary>Fund management</summary>
+    <details>
+    <summary>About</summary>
       <ul>
-        <li><a href="#built-with">Project requirement</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#fund-with">Create Group and Common Group</a></li>
+        <li><a href="#fund-with">Add Event for Payment with Details</a></li>
+        <li><a href="#fund-with">Show Total Cash In and Out, Remain Cash as well</a></li>
       </ul>
+    </details>
     </li>
-  </ol>
-
-  <summary>Table of Contents</summary>
-  <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+    <summary>Schedule Management</summary>
+    <details>
+    <summary>About</summary>
       <ul>
-        <li><a href="#built-with">Project requirement</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#schedule-with">Coming Soon</a></li>
       </ul>
+    </details>
     </li>
-  </ol>
-
-  <summary>Table of Contents</summary>
-  <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+    <summary>Health Management</summary>
+    <details>
+    <summary>About</summary>
       <ul>
-        <li><a href="#built-with">Project requirement</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#health-with">Coming Soon</a></li>
       </ul>
+    </details>
     </li>
-  </ol>
-
-  <summary>Table of Contents</summary>
-  <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+    <summary>Birthday, Party, Meeting Management</summary>
+    <details>
+    <summary>About</summary>
       <ul>
-        <li><a href="#built-with">Project requirement</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#birthday-with">Coming Soon</a></li>
       </ul>
+    </details>
     </li>
-  </ol>
 
+  </ol>
 
 See the [open issues](https://github.com/New-Toptal/life-management/issues) for a full list of proposed features (and known issues).
 
@@ -146,10 +138,9 @@ See the [open issues](https://github.com/New-Toptal/life-management/issues) for 
 
 ## Contact
 
-Owen : Frontend developer - [@github](https://github.com/sweetdream34310) [@email](esaibrilliant34310@gmail.com) 
+Owen : Frontend developer - [@github](https://github.com/sweetdream34310)
 
-M@Rs : Backend developer - [@github](https://github.com/BestCryptoKnight) [@email]() 
-
+M@Rs : Backend developer - [@github](https://github.com/BestCryptoKnight)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
