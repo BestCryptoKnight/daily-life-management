@@ -27,11 +27,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">LIFE MANAGEMENT SYSTEM</h3>
+  <h3 align="center">Daily LIFE MANAGEMENT SYSTEM</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/New-Toptal/life-management/blob/main/README.md"></a>
+    <a href="https://github.com/BestCryptoKnight/daily-life-management/edit/main/README.md"></a>
     <br />
     <br />
   </p>
@@ -57,11 +57,11 @@
 
 [![LIFE MANAGEMENT PLATFORM][product-screenshot]](https://life-management-v1.netlify.app/)
 
-This is the projects that manage the all the life of our team like Fund, Schedule, Health, Meeting, Party, Birthday ...
-    1. Fund management
-    2. Schedule management
-    3. Health management
-    4. Meeting and Party management
+This is the projects that manage the all the life of our team like Fund, Schedule, Health, Meeting, Party, Birthday ... <br/>
+    1. Fund management <br/>
+    2. Schedule management <br/>
+    3. Health management <br/>
+    4. Meeting and Party management <br/>
 
 If you have any suggestion, please put it on issues.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,40 +69,31 @@ If you have any suggestion, please put it on issues.
 ### Built With
 
 - [![React][react.js]][react-url]
-- [![ASP .NET][jquery.com]][asp.net-url]
+- [![ASP .NET][https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A.NET_Core_Logo.svg&psig=AOvVaw07JhJi3jc-dW8_Q7fiGOqh&ust=1676036868449000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCKCHue_KiP0CFQAAAAAdAAAAABAD]][.NET Core-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## Getting Started with Razor
 
-### Prerequisites
+If you are unfamiliar with ASP.NET Core or Razor, follow the links below to learn more:
 
-This is an example of how to list things you need to use the software and how to install them.
+* ASP.NET Core apps: Follow the [Getting Started](https://docs.microsoft.com/aspnet/core/getting-started) instructions in the [ASP.NET Core docs](https://docs.microsoft.com/aspnet/index).
+* Razor pages: Visit the [tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio) on getting started with Razor pages.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Also check out the [.NET Homepage](https://www.microsoft.com/net) for released versions of .NET, getting started guides, and learning resources.
 
-### Installation
+## Reporting security issues and bugs
 
-1. Install the NPM package module.
-2. Clone the repo
-   ```sh
-   git clone https://github.com/New-Toptal/life-management.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
+Security issues and bugs should be reported privately, via email, to the Microsoft Security Response Center (MSRC)  secure@microsoft.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Further information, including the MSRC PGP key, can be found in the [Security TechCenter](https://technet.microsoft.com/en-us/security/ff852094.aspx).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
 
-- [ ] Buld layout
+- [ ] Build structure
 - [ ] Build Frontend structure with React and Backend structure with ASP .NET 
 - [ ] Build the Table for the Management structure with table and several buttons with mock data.
 - [ ] Design the database.
