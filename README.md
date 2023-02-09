@@ -69,7 +69,7 @@ If you have any suggestion, please put it on issues.
 ### Built With
 
 - [![React][react.js]][react-url]
-- [![ASP .NET][https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A.NET_Core_Logo.svg&psig=AOvVaw07JhJi3jc-dW8_Q7fiGOqh&ust=1676036868449000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCKCHue_KiP0CFQAAAAAdAAAAABAD]][.NET Core-url]
+- [![ASP.NET][asp.net core]][.NET Core-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
