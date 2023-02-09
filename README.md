@@ -69,7 +69,7 @@ If you have any suggestion, please put it on issues.
 ### Built With
 
 - [![React][react.js]][react-url]
-- [![ASP.NET][asp.net core]][.NET Core-url]
+- [![ASP.NET][asp.net]][https://dotnet.microsoft.com/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
