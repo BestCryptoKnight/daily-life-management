@@ -90,7 +90,7 @@ Security issues and bugs should be reported privately, via email, to the Microso
 
   <ol>
     <li>
-      <summary>Fund management</summary>
+      Fund management
       <details>
       <summary>About</summary>
         <ul>
