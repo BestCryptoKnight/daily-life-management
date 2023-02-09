@@ -93,11 +93,50 @@ Security issues and bugs should be reported privately, via email, to the Microso
 
 ## Roadmap
 
-- [ ] Build structure
-- [ ] Build Frontend structure with React and Backend structure with ASP .NET 
-- [ ] Build the Table for the Management structure with table and several buttons with mock data.
-- [ ] Design the database.
-- [ ] 
+  <summary>Fund management</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Project requirement</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Project requirement</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Project requirement</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Project requirement</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+
 
 See the [open issues](https://github.com/New-Toptal/life-management/issues) for a full list of proposed features (and known issues).
 
@@ -109,7 +148,7 @@ See the [open issues](https://github.com/New-Toptal/life-management/issues) for 
 
 Owen : Frontend developer - [@github](https://github.com/sweetdream34310) [@email](esaibrilliant34310@gmail.com) 
 
-Jhon : Backend developer - [@github](https://github.com/sweetdream34310) [@email](esaibrilliant34310@gmail.com) 
+M@Rs : Backend developer - [@github](https://github.com/BestCryptoKnight) [@email]() 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
