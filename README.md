@@ -101,7 +101,7 @@ Security issues and bugs should be reported privately, via email, to the Microso
       </details>
     </li>
     <li>
-      <summary>Schedule Management</summary>
+      Schedule Management
       <details>
       <summary>About</summary>
         <ul>
@@ -110,7 +110,7 @@ Security issues and bugs should be reported privately, via email, to the Microso
       </details>
     </li>
     <li>
-      <summary>Health Management</summary>
+      Health Management
       <details>
       <summary>About</summary>
         <ul>
@@ -119,7 +119,7 @@ Security issues and bugs should be reported privately, via email, to the Microso
       </details>
     </li>
     <li>
-      <summary>Birthday, Party, Meeting Management</summary>
+      Birthday, Party, Meeting Management
       <details>
       <summary>About</summary>
         <ul>
