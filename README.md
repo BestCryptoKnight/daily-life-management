@@ -90,42 +90,42 @@ Security issues and bugs should be reported privately, via email, to the Microso
 
   <ol>
     <li>
-    <summary>Fund management</summary>
-    <details>
-    <summary>About</summary>
-      <ul>
-        <li><a href="#fund-with">Create Group and Common Group</a></li>
-        <li><a href="#fund-with">Add Event for Payment with Details</a></li>
-        <li><a href="#fund-with">Show Total Cash In and Out, Remain Cash as well</a></li>
-      </ul>
-    </details>
+      Fund management
+      <details>
+      <summary>About</summary>
+        <ul>
+          <li><a href="#fund-with">Create Group and Common Group</a></li>
+          <li><a href="#fund-with">Add Event for Payment with Details</a></li>
+          <li><a href="#fund-with">Show Total Cash In and Out, Remain Cash as well</a></li>
+        </ul>
+      </details>
     </li>
     <li>
-    <summary>Schedule Management</summary>
-    <details>
-    <summary>About</summary>
-      <ul>
-        <li><a href="#schedule-with">Coming Soon</a></li>
-      </ul>
-    </details>
+      Schedule Management
+      <details>
+      <summary>About</summary>
+        <ul>
+          <li><a href="#schedule-with">Coming Soon</a></li>
+        </ul>
+      </details>
     </li>
     <li>
-    <summary>Health Management</summary>
-    <details>
-    <summary>About</summary>
-      <ul>
-        <li><a href="#health-with">Coming Soon</a></li>
-      </ul>
-    </details>
+      Health Management
+      <details>
+      <summary>About</summary>
+        <ul>
+          <li><a href="#health-with">Coming Soon</a></li>
+        </ul>
+      </details>
     </li>
     <li>
-    <summary>Birthday, Party, Meeting Management</summary>
-    <details>
-    <summary>About</summary>
-      <ul>
-        <li><a href="#birthday-with">Coming Soon</a></li>
-      </ul>
-    </details>
+      Birthday, Party, Meeting Management
+      <details>
+      <summary>About</summary>
+        <ul>
+          <li><a href="#birthday-with">Coming Soon</a></li>
+        </ul>
+      </details>
     </li>
 
   </ol>
